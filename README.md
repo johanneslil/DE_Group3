@@ -10,8 +10,8 @@ We chose to use the reddit comments dataset found here: https://files.pushshift.
 
 
 ## Contributors
-Arvid Zetterberg
-Johannes Liljedahl
-Hassan Saado
-Ture Hassler
-Bérenger Arbez
+Arvid Zetterberg <br>
+Johannes Liljedahl <br>
+Hassan Saado <br>
+Ture Hassler <br>
+Bérenger Arbez <br>
