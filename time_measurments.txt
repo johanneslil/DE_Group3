@@ -1,8 +1,27 @@
 Here we can write down the times for our scalability study.
 
 
-Original setup, 4(?) workers. Run 1
+Original setup, 4(?) workers.
+Run 1
 Total time:  107.0622832775116
 Time to read data:  35.986621141433716
 Time to do computations: 34.07354211807251
 Time for plotting: 32.197723388671875
+
+Run 2
+Total time:  89.39353084564209
+Time to read data:  25.586050510406494
+Time to do computations: 30.65850067138672
+Time for plotting: 28.069180965423584
+
+Run 3
+Total time:  87.34469795227051
+Time to read data:  23.63463544845581
+Time to do computations: 31.281703233718872
+Time for plotting: 27.699642419815063
+
+Run 4
+Total time:  82.51536822319031
+Time to read data:  19.231189966201782
+Time to do computations: 30.84087300300598
+Time for plotting: 27.840924978256226
