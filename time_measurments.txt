@@ -25,3 +25,30 @@ Total time:  82.51536822319031
 Time to read data:  19.231189966201782
 Time to do computations: 30.84087300300598
 Time for plotting: 27.840924978256226
+--------------------------------------------
+
+Changing the property spark.cores.max property of the spark application
+
+8 cores
+Total time: 58.15558362007141
+Time to read data: 10.628390789031982
+Time to do computations: 22.95405149459839
+Time for plotting: 24.573099851608276
+
+4 cores
+Total time: 88.36659026145935
+Time to read data: 20.34749412536621
+Time to do computations: 33.38731050491333
+Time for plotting: 34.63174867630005
+
+2 cores
+Total time: 156.14600825309753
+Time to read data: 36.48017764091492
+Time to do computations: 63.47409105300903
+Time for plotting: 56.19168996810913
+
+1 core
+Total time: 300.4680299758911
+Time to read data: 59.46717834472656
+Time to do computations: 120.48841381072998
+Time for plotting: 120.51239657402039
